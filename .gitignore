@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+/build/
+/backups/
+/tmp/
+/*.jpg
+/*.png
+*.pcraft
+*.psd
+.env
+.env.*
+!.env.example

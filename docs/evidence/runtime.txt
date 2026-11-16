@@ -1,0 +1,8 @@
+Date: 2026-11-17
+Current source factory-driver build: compiled with -Wall -Wextra -Werror
+Current source factory-driver SRAM run: state 0x50415353 rows 240
+Preserved photo-confirmed prebuilt SRAM run: state 0x50415353 rows 240
+Original 65536-byte Flash compared with backup after both runs: identical
+Flash programming: not performed
+Visual result: confirmed by user and supplied photograph
+Hardware and GUI operations stopped after user's instruction; remaining work is local documentation and Git only.

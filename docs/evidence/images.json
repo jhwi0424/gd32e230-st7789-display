@@ -1,0 +1,30 @@
+[
+  {
+    "original_name": "18e40f20561a01743b7f79ad6290caf6.jpg",
+    "display_file": "docs/images/taobao-panel-pinout.jpg",
+    "source": "Taobao product screenshot",
+    "original_sha256": "15c82db46473d11ed3e4fd5538936948ce863b6a1182a94f89e6d42420501d16",
+    "display_sha256": "7fb9db0b3f9ec74ac70aefd81118bfb2bb00e3c78efc006e2a4fe6b3c93d2d81"
+  },
+  {
+    "original_name": "78c9ae012e2a28f4974590f4638e7fed.jpg",
+    "display_file": "docs/images/taobao-review-specs.jpg",
+    "source": "Taobao buyer review screenshot",
+    "original_sha256": "086b93840f1e9b752999b44d9c333892166d3c61fd9785e787e42828e306c458",
+    "display_sha256": "c6851c7b56a1fcb85b1e6b7bea65e22599c991c8e61e0f264f8b38e139b77e6b"
+  },
+  {
+    "original_name": "f69238ec9fb8c6a464e93496d124273a.jpg",
+    "display_file": "docs/images/taobao-board-pinout.jpg",
+    "source": "Taobao board photo screenshot with third-party labels",
+    "original_sha256": "165ca651c566f742ba43c7784c9c18fcc5d8efbf0c54bbe2e0837c3a565121a4",
+    "display_sha256": "9e3d18217562edc3c88a4c363aadb23bf521879fc4e553d4381206bcd0360deb"
+  },
+  {
+    "original_name": "img_v3_0217h_da22a77c-ccac-4b48-9bbc-4d789253cadg.jpg",
+    "display_file": "docs/images/display-lit.png",
+    "source": "User supplied photograph of this project running",
+    "original_sha256": "af4b9b355c50e573b4aac425fa7544b0e5f5be7b04fff125ce426dd1bdd95455",
+    "display_sha256": "53a5c38157c5a40db5c63faf3ecd6d2f94b6686be50eda80f4d863aca517d529"
+  }
+]

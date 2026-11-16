@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-17",
+  "original_flash_unchanged": true,
+  "original_flash_sha256": "5795f431cf1166aabec2453eb476a25913d5f968b5adb61d4613200c1086ceb8",
+  "ram_state": "0x50415353",
+  "rows_sent": 240,
+  "visual_confirmed_by_user": true,
+  "photo": "docs/images/display-lit.png",
+  "flash_programmed": false,
+  "build_checks": "four variants compiled with -Wall -Wextra -Werror",
+  "current_factory_runtime": "PASS",
+  "confirmed_prebuilt_runtime": "PASS",
+  "binary_sha256": {
+    "firmware/prebuilt/factory_driver-confirmed.bin": "31430db7d9ca425be4d37eb7a5fba19d13d8743a6acb83893f18a9ccab3b9d7e",
+    "build/factory_driver.bin": "8bde7c747ad25f895aa54953de7e6d281ebe287bac396b2b1ed59b230ef6f44c"
+  }
+}
